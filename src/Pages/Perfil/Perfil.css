@@ -1,0 +1,19 @@
+.parte-arriba {
+  background-color: aqua;
+}
+.Perfil1 {
+  font-family: sans-serif;
+  text-align: center;
+}
+.perfil {
+  border-style: solid;
+  border-color: aqua;
+  border-radius: 80%;
+  height: 90px;
+}
+.barra {
+  margin-top: 70px;
+}
+.masculino {
+  margin-top: 90px;
+}

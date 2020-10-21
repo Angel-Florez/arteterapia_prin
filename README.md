@@ -1,2 +1,2 @@
-# arteterapia_prin
+# Ejemplo_de_CareTips
 Created with CodeSandbox
